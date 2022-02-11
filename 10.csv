@@ -1,0 +1,2 @@
+cid,name,group_concat(DISTINCT hM.recommended)
+c1350,Jake Hennig,120
